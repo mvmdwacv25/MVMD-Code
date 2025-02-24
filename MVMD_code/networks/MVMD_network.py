@@ -13,7 +13,7 @@ class MVMD_Network(nn.Module):
         if pretrained_path is not None:
             checkpoint = torch.load(pretrained_path)
             print(f"Load checkpoint:{pretrained_path}")
-            self.encoder.load_state_dict(checkpoint['model'])
+            self.imgconv.load_state_dict(checkpoint['model'])
 
         ################################## img block ######################################
         # self.imgconv = ()
