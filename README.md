@@ -2,7 +2,7 @@
 
 # MVMD: A Multi-View Approach for Enhanced Mirror Detection
 
-[[PAPER](https://openaccess.thecvf.com/content/WACV2025/papers/Shen_MVMD_A_Multi-View_Approach_for_Enhanced_Mirror_Detection_WACV_2025_paper.pdf) [SUPPLEMENT](https://openaccess.thecvf.com/content/WACV2025/supplemental/Shen_MVMD_A_Multi-View_WACV_2025_supplemental.pdf)]
+[[PAPER](https://openaccess.thecvf.com/content/WACV2025/papers/Shen_MVMD_A_Multi-View_Approach_for_Enhanced_Mirror_Detection_WACV_2025_paper.pdf)] [[SUPPLEMENT](https://openaccess.thecvf.com/content/WACV2025/supplemental/Shen_MVMD_A_Multi-View_WACV_2025_supplemental.pdf)]
 
 Abstract
 In 3D reconstruction, mirrors introduce significant challenges by creating distorted and fragmented spaces, resulting in inaccurate and unreliable 3D models. As 3D reconstruction typically relies on multi-view images to capture different perspectives of a scene, detecting and labeling mirrors in multi-view images before reconstruction can effectively address this issue. However, existing methods focus solely on single-image detection, overlooking the rich information provided by multi-view setups. To overcome this limitation, we propose MVMD, a novel Multi-View Mirror Detection method, along with the first database specifically designed for mirror detection in multi-view scenes.
