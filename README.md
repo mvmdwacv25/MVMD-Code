@@ -15,7 +15,8 @@ Experimental results show that our method improves accuracy by up to 2.6% and Io
 
 
 ## Experiment
-[mvmd(compare).pdf](https://github.com/user-attachments/files/19016544/mvmd.compare.pdf)
+![Screenshot 2025-02-27 154427](https://github.com/user-attachments/assets/0869219e-e68c-4988-8058-06e89a4c7751)
+
 
 
 ## Citation
